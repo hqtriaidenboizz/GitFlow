@@ -1,0 +1,28 @@
+body, h1{
+  margin: 0;
+  padding: 0;
+}
+header{
+  width: 100%;
+  height: 20vh;
+  background-color: red;
+  
+}
+
+main{
+  width: 100%;
+  height: 60vh;
+  background-color: blue;
+}
+
+footer{
+  width: 100%;
+  height: 20vh;
+  background-color: rgb(255, 200, 0);
+}
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
